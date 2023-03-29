@@ -86,3 +86,8 @@ These are just a few of the many Docker commands available. For a complete list,
 - `systemctl status nginx` to check nginx status
 - `mkdir -p /var/www/binaryville`
 - `echo "site coming soon." > /var/www/binaryville/index.html`
+
+## TODO:
+- [ ] Read about how daemons work and whether it’s a good idea to use them or not.
+- [ ] Read about PID 1 and the best practices for writing Dockerfiles.
+- 
